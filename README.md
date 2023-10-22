@@ -10,7 +10,8 @@ O Elshaday é uma aplicação web de código aberto desenvolvida para auxiliar n
 <a href="https://t.me/k4k4rot0)"><img src="https://img.shields.io/badge/Meu-Telegram-red" alt="Telegram"></a>
 <a href=""><img src="https://img.shields.io/github/repo-size/k4k4rot0/login?label=Tamanho" alt="Tamanho"></a>
 <a href=""> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/k4k4rot0/project_idmp"></a>
-<a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://badges.frapsoft.com/os/v1/open-source.png?v=103" alt="Open Sources"></a>
+<a href=""> <img alt="GitHub" src="https://img.shields.io/github/license/k4k4rot0/project_idmp"></a>
+<a href=""><img src="https://badges.frapsoft.com/os/v1/open-source.png?v=103" alt="Open Sources"></a>
 </p>
 
 ## Sobre Laravel
