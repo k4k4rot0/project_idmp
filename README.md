@@ -43,4 +43,14 @@ Se você descobrir uma vulnerabilidade de segurança no Laravel, envie um e-mail
 
 A estrutura Laravel é um software de código aberto licenciado sob a [MIT license](https://opensource.org/licenses/MIT).
 
+### Tecnologias envolvidas:
+
+A aplicação foi desenvolvida utilizando a linguagem PHP com o framework MVC Laravel e para o banco de dados foi utilizado o MariaDB. Abaixo estão detalhadas mais tecnologias e bibliotecas relevantes utilizadas no projeto atualmente:
+
+- PHP 8;
+- Laravel Framework 8;
+- Laravel Breeze para Autenticação;
+- Bootstrap 5;
+- MariaDB;
+
 **Atenção:** Este é um projeto em desenvolvimento, portanto mais atualizações serão implementadas. No entanto, eu o desenvolvo sozinho e de forma voluntária, portanto elas poderão demorar um pouco.
