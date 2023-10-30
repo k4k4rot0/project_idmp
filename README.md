@@ -36,14 +36,14 @@ Para garantir que a comunidade Laravel seja acolhedora para todos, revise e cump
 
 ## Vulnerabilidades de segurança
 
-Se você descobrir uma vulnerabilidade de segurança no Laravel, envie um e-mail para Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). Todas as vulnerabilidades de segurança serão prontamente resolvidas.
+Se você descobrir uma vulnerabilidade de segurança no Laravel, envie um e-mail para Taylor via [taylor@laravel.com](mailto:taylor@laravel.com). Todas as vulnerabilidades de segurança serão prontamente resolvidas.
 
 
 ## Licença
 
 A estrutura Laravel é um software de código aberto licenciado sob a [MIT license](https://opensource.org/licenses/MIT).
 
-### Tecnologias envolvidas:
+### Tecnologias Utilizadas:
 
 A aplicação foi desenvolvida utilizando a linguagem PHP com o framework MVC Laravel e para o banco de dados foi utilizado o MariaDB. Abaixo estão detalhadas mais tecnologias e bibliotecas relevantes utilizadas no projeto atualmente:
 
