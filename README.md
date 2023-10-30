@@ -1,6 +1,6 @@
-# Elshaday - Administração de Igrejas Evangélicas
+# SiGI - Sistema para Gestão de Igrejas
 
-O Elshaday é uma aplicação web de código aberto desenvolvida para auxiliar na organização de uma igreja. O sistema foi pensado a partir da estrutura interna de uma igreja cristã, mas na prática, dentro das limitações desta estrutura, não há nada que impeça a sua adaptação para outros contextos. Com ele é possível gerenciar uma instituição religiosa, seus diferentes locais de culto, membros, eventos e finanças, tudo da forma mais simples possível através de um painel de controle.
+SiGI é uma aplicação web de código aberto desenvolvida para auxiliar na organização de uma igreja. O sistema foi pensado a partir da estrutura interna de uma igreja evangélica, mas na prática, dentro das limitações desta estrutura, não há nada que impeça a sua adaptação para outros contextos. Com ele é possível gerenciar uma igreja, seus diferentes locais de culto, membros, eventos e finanças, tudo da forma mais simples possível através de um painel de controle.
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
@@ -45,12 +45,12 @@ A estrutura Laravel é um software de código aberto licenciado sob a [MIT licen
 
 ### Tecnologias envolvidas:
 
-A aplicação foi desenvolvida utilizando a linguagem PHP com o framework MVC Laravel e para o banco de dados foi utilizado o MySQL. Abaixo estão detalhadas mais tecnologias e bibliotecas relevantes utilizadas no projeto atualmente:
+A aplicação foi desenvolvida utilizando a linguagem PHP com o framework MVC Laravel e para o banco de dados foi utilizado o MariaDB. Abaixo estão detalhadas mais tecnologias e bibliotecas relevantes utilizadas no projeto atualmente:
 
 - PHP 8;
 - Laravel Framework 10;
 - Laravel Breeze para Autenticação;
 - Bootstrap 5;
-- MySQL;
+- MariaDB;
 
 **Atenção:** Este é um projeto em desenvolvimento, portanto mais atualizações serão implementadas. No entanto, eu o desenvolvo sozinho e de forma voluntária, portanto elas poderão demorar um pouco.
