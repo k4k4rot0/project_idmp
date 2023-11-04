@@ -1,7 +1,9 @@
-⚠️ Aviso: Trabalho em progresso!
-# SiGI - Sistema para Gestão de Igrejas
+⚠️ **AVISO:** Este é um projeto em desenvolvimento, portanto mais atualizações serão lançadas. No entanto, eu desenvolvo sozinho e de forma voluntária, portanto elas poderão demorar um pouco.
 
-SiGI é uma aplicação web de código aberto desenvolvida para auxiliar na organização de uma igreja. O sistema foi pensado a partir da estrutura interna de uma igreja evangélica, mas na prática, dentro das limitações desta estrutura, não há nada que impeça a sua adaptação para outros contextos. Com ele é possível gerenciar uma igreja, seus diferentes locais de culto, membros, eventos e finanças, tudo da forma mais simples possível através de um painel de controle.
+# SiGIE - Sistema para Gestão de Igrejas Evangélicas
+
+SiGIE é uma aplicação Web e pode ser acessado de qualquer parte do mundo, basta utilizar seu navegador (browser) favorito e à internet. Com ele é possível gerenciar diversos setores de uma igreja, proporcionando um gerenciamento completo das informações, seus diferentes locais de cultos, membros, eventos e finanças, tudo da forma mais simples possível através de um painel de controle. O sistema é multi-plataforma podendo ser executado/acessado em Computadores, Notebooks, Tablets, Smartphones ou qualquer outro dispositivo que possua navegador e acesso à internet.
+O projeto nasceu com intúito de ser "grátis" para todas as igrejas e também Open Source, ou seja, código livre para qualquer um usar, modificar ou distribuir.
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
@@ -10,8 +12,8 @@ SiGI é uma aplicação web de código aberto desenvolvida para auxiliar na orga
 <p align="center">
 <a href="https://t.me/k4k4rot0)"><img src="https://img.shields.io/badge/Meu-Telegram-red" alt="Telegram"></a>
 <a href=""><img src="https://img.shields.io/github/repo-size/k4k4rot0/login?label=Tamanho" alt="Tamanho"></a>
-<a href=""> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/k4k4rot0/project_idmp"></a>
-<a href=""> <img alt="GitHub" src="https://img.shields.io/github/license/k4k4rot0/project_idmp"></a>
+<a href=""><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/k4k4rot0/project_idmp"></a>
+<a href=""><img alt="GitHub" src="https://img.shields.io/github/license/k4k4rot0/project_idmp"></a>
 <a href=""><img src="https://badges.frapsoft.com/os/v1/open-source.png?v=103" alt="Open Sources"></a>
 </p>
 
@@ -44,6 +46,10 @@ Se você descobrir uma vulnerabilidade de segurança no Laravel, envie um e-mail
 
 A estrutura Laravel é um software de código aberto licenciado sob a [MIT license](https://opensource.org/licenses/MIT).
 
+## Framework
+
+SiGIE usa o [Laravel](http://laravel.com), o melhor framework PHP atualmente, como base.
+
 ### Tecnologias Utilizadas:
 
 A aplicação foi desenvolvida utilizando a linguagem PHP com o framework MVC Laravel e para o banco de dados foi utilizado o MariaDB. Abaixo estão detalhadas mais tecnologias e bibliotecas relevantes utilizadas no projeto atualmente:
@@ -53,5 +59,3 @@ A aplicação foi desenvolvida utilizando a linguagem PHP com o framework MVC La
 - Laravel Breeze para Autenticação;
 - Bootstrap 5;
 - MariaDB;
-
-**Atenção:** Este é um projeto em desenvolvimento, portanto mais atualizações serão implementadas. No entanto, eu o desenvolvo sozinho e de forma voluntária, portanto elas poderão demorar um pouco.
