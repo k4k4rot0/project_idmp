@@ -1,8 +1,8 @@
-⚠️ **AVISO:** Este é um projeto em desenvolvimento, portanto mais atualizações serão lançadas. No entanto, eu desenvolvo sozinho e de forma voluntária, portanto elas poderão demorar um pouco.
+⚠️ **AVISO:** ⚠️ Este é um projeto em desenvolvimento, portanto mais atualizações serão lançadas. No entanto, eu desenvolvo sozinho e de forma voluntária, portanto elas poderão demorar um pouco.
 
 # SiGI - Sistema para Gestão de Igrejas
 
-SiGIE é uma aplicação Web e pode ser acessado de qualquer parte do mundo, basta utilizar seu navegador (browser) favorito e à internet. Com ele é possível gerenciar diversos setores de uma igreja, proporcionando um gerenciamento completo das informações, seus diferentes locais de cultos, membros, eventos e finanças, tudo da forma mais simples possível através de um painel de controle. O sistema é multi-plataforma podendo ser executado/acessado em Computadores, Notebooks, Tablets, Smartphones ou qualquer outro dispositivo que possua navegador e acesso à internet.
+SiGI é uma aplicação Web e pode ser acessado de qualquer parte do mundo, basta utilizar seu navegador (browser) favorito e a internet. Com ele é possível gerenciar diversos setores de uma igreja, proporcionando um gerenciamento completo das informações, seus diferentes locais de cultos, membros, eventos e finanças, tudo da forma mais simples possível através de um painel de controle. O sistema é multi-plataforma podendo ser executado/acessado em Computadores, Notebooks, Tablets, Smartphones ou qualquer outro dispositivo que possua navegador e acesso à internet.
 O projeto nasceu com intúito de ser "grátis" para todas as igrejas e também Open Source, ou seja, código livre para qualquer um usar, modificar ou distribuir.
 
 
